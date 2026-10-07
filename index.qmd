@@ -2,6 +2,4 @@
 title: "Asa Rogers"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Current NC State BA Major with a concentration in Business Analytics and professional focus in Sports Analytics. This is the home of both my journalism and technical projects.

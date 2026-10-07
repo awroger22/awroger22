@@ -1,5 +1,33 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+I'm a student at NC State studying Business Administration with a focus on Business Analytics and a minor in Data Science. I'm primarily focused in operations and analytics, and I use this site to publish my sports writing and my data projects.
+
+## Experience in soccer
+
+I have worked with **Asheville City SC**, a USL League Two and USL W League club that regularly draws crowds of over 1,000 fans per match.
+
+I started as a gameday operations intern in summer 2025. I collected in-game statistics for submission to the league's official database and helped run gameday setup and takedown. That season, the Men's team won the South Central Division and the Women's team reached a national semifinal.
+
+In 2026, I moved into a broader team operations and administration role while keeping my gameday and stat-tracking responsibilities. That work includes:
+
+- Leading parts of gameday operations, VIP hospitality, and event logistics
+- Serving as the main contact for visiting teams, handling communication and logistics for their arrivals
+- Supporting team operations, from uniform preparation and locker room setup to assisting at practices
+
+The Men's team won the John Motta Trophy and reached the Conference Final that year, and the Women's team made a second consecutive national semifinal.
+
+## What I'm working on
+
+This site combines my passions for sports, writing, and data and has a section that primarily focuses on my opinions, and one that is geared toward more technical work. You'll find my projects on the [Projects](projects.qmd) page and my writing on the [Writing](writing.qmd) page.
+
+## Outside of Sports
+
+I like to cook and do this in my free time, and am addicted to Football Manager.
+
+## Find me online
+
+- [GitHub](https://github.com/awroger22)
+- [LinkedIn](www.linkedin.com/in/asa-rogers)
+- Email: asawilliamrogers@gmail.com
