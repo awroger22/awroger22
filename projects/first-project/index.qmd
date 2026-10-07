@@ -1,0 +1,7 @@
+---
+title: "First Project"
+date: 2026-10-07
+description: "A placeholder project to test the Projects page."
+---
+
+This is a test project page. I'll replace it with real work soon.

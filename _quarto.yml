@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Asa Rogers"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: writing.qmd
+        text: Writing
+      - href: projects.qmd
+        text: Projects
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
