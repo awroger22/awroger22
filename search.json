@@ -18,14 +18,42 @@
     "href": "index.html",
     "title": "Asa Rogers",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Current NC State BA Major with a concentration in Business Analytics and professional focus in Sports Analytics. This is the home of both my journalism and technical projects."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
+    "text": "I’m a student at NC State studying Business Administration with a focus on Business Analytics and a minor in Data Science. I’m primarily focused in operations and analytics, and I use this site to publish my sports writing and my data projects."
+  },
+  {
+    "objectID": "about.html#experience-in-soccer",
+    "href": "about.html#experience-in-soccer",
+    "title": "About Me",
+    "section": "Experience in soccer",
+    "text": "Experience in soccer\nI have worked with Asheville City SC, a USL League Two and USL W League club that regularly draws crowds of over 1,000 fans per match.\nI started as a gameday operations intern in summer 2025. I collected in-game statistics for submission to the league’s official database and helped run gameday setup and takedown. That season, the Men’s team won the South Central Division and the Women’s team reached a national semifinal.\nIn 2026, I moved into a broader team operations and administration role while keeping my gameday and stat-tracking responsibilities. That work includes:\n\nLeading parts of gameday operations, VIP hospitality, and event logistics\nServing as the main contact for visiting teams, handling communication and logistics for their arrivals\nSupporting team operations, from uniform preparation and locker room setup to assisting at practices\n\nThe Men’s team won the John Motta Trophy and reached the Conference Final that year, and the Women’s team made a second consecutive national semifinal."
+  },
+  {
+    "objectID": "about.html#what-im-working-on",
+    "href": "about.html#what-im-working-on",
+    "title": "About Me",
+    "section": "What I’m working on",
+    "text": "What I’m working on\nThis site combines my passions for sports, writing, and data and has a section that primarily focuses on my opinions, and one that is geared toward more technical work. You’ll find my projects on the Projects page and my writing on the Writing page."
+  },
+  {
+    "objectID": "about.html#outside-of-sports",
+    "href": "about.html#outside-of-sports",
+    "title": "About Me",
+    "section": "Outside of Sports",
+    "text": "Outside of Sports\nI like to cook and do this in my free time, and am addicted to Football Manager."
+  },
+  {
+    "objectID": "about.html#find-me-online",
+    "href": "about.html#find-me-online",
+    "title": "About Me",
+    "section": "Find me online",
+    "text": "Find me online\n\nGitHub\nLinkedIn\nEmail: asawilliamrogers@gmail.com"
   },
   {
     "objectID": "posts/welcome/index.html",
