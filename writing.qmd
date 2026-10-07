@@ -3,5 +3,7 @@ title: "Writing"
 listing:
   contents: posts
   sort: "date desc"
-  type: default
+  type: table
+  fields: [date, title]
+  date-format: medium
 ---

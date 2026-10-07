@@ -2,8 +2,12 @@ project:
   type: website
 
 website:
+  favicon: logo.png
   title: "Asa Rogers"
   navbar:
+    logo: logo.png
+    title: false
+    background: primary
     left:
       - href: index.qmd
         text: Home
@@ -13,6 +17,12 @@ website:
         text: Projects
       - href: about.qmd
         text: About
+    right:
+      - icon: github
+        href: https://github.com/awroger22
+      - icon: linkedin
+        href: www.linkedin.com/in/asa-rogers
+  page-footer: "© 2026 Asa Rogers"
 
 format:
   html:
