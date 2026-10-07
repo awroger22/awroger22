@@ -2,4 +2,12 @@
 title: "Asa Rogers"
 ---
 
-Current NC State BA Major with a concentration in Business Analytics and professional focus in Sports Analytics. This is the home of both my journalism and technical projects.
+Soccer operations, sports writing, and data projects.
+
+I'm a Business Analytics student at NC State with a Data Science minor. I've worked in operations for Asheville City SC, a USL League Two and USL W League club, and I'm building a body of work in sports writing and analytics.
+
+This site collects what I write and what I build:
+
+- [Writing](writing.qmd): sports writing and analysis
+- [Projects](projects.qmd): databases, dashboards, and analytics work
+- [About](about.qmd): my background and experience
